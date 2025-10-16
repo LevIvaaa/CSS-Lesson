@@ -28,7 +28,7 @@
     border-radius: 100px;
 }
 
-.lighter1{
+.lighter1 div{
     width: 100px;
     height: 100px;
     border-radius: 50px;
@@ -36,7 +36,7 @@
 
 .red1{
     background-color: red;
-    height: 50px;
+
 }
 
 .yellow1{
