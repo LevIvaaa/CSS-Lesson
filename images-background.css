@@ -1,0 +1,13 @@
+p{
+    background-color: transparent;
+}
+
+.logo{
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+}
+
+*{
+    background: url(images/logo.png);
+    background-repeat: no-repeat;
+}
