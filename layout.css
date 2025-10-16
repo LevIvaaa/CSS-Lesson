@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.menu {
+    background: #2D1600;
+    background: linear-gradient(90deg,rgba(45, 22, 0, 1) 0%, rgba(111, 54, 0, 1) 100%);
+}
+
+.menu-inner {
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.item {
+    text-align: center;
+}
+
+.icon {
+
+}
+
+.number {
+    color: white;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+
+.text {
+    color: rgb(224, 162, 104);
+    font-size: 19px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.line {
+    width: 30px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+i.fa{
+    font-size: 60px;
+    color: rgb(224, 162, 104);
+}
