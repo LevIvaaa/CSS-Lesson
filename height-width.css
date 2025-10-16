@@ -1,0 +1,48 @@
+.logo{
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 650px;
+    border: 3px solid black;
+    border-radius: 35px 35px 35px 315px;
+}
+
+.red{
+    background-image: url(images/Bahnmarke_bleibt_an_Backbord_liegen.svg.png);
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.yellow{
+    background-image: url(images/i.png);
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.green{
+    background-image: url(images/1640951973_16-abrakadabra-fun-p-zelenii-tsvet-fon-odnotonnii-21.jpg);
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.lighter1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.red1{
+    background-color: red;
+    height: 50px;
+}
+
+.yellow1{
+    background-color: yellow;
+}
+
+.green1{
+    background-color: green;
+}
