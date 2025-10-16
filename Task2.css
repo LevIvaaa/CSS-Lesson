@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.menu {
+    background-color: rgb(4, 204, 204);
+    padding: 50px;
+}
+
+.menu-inner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.icon img {
+    height: 50px;
+    width: 50px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.number {
+    font-weight: bold;
+    color: white;
+    font-size: 27px;
+    font-family: sans-serif;
+}
+
+.text {
+    color: white;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
